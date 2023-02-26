@@ -15,4 +15,4 @@
 
 ###### If you want to know other solutions please see the following repository in which I was inspired to upload my own solutions: https://github.com/mouredev/Weekly-Challenge-2022-Kotlin#readme
 
-###### And if you want to see more exercises:: https://pythondiario.com/ejercicios-de-programacion-python
+###### And if you want to see more exercises: https://pythondiario.com/ejercicios-de-programacion-python
